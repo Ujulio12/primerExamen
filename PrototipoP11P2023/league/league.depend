@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1678412936 source:c:\jemr\proyectos\league\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+	"LIGAS.h"
+
+1678412983 c:\jemr\proyectos\league\include\ligas.h
+
